@@ -1,18 +1,4 @@
 # 🚀 Amarsa Banerjee
-
-::: {align="center"}
-`<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+Engineer;Business+Intelligence+Builder;KPI+Architecture+Specialist" />`{=html}
-
-`<br>`{=html}
-
-![Profile
-Views](https://komarev.com/ghpvc/?username=amarsabanerjee&color=blue)
-![GitHub
-followers](https://img.shields.io/github/followers/amarsabanerjee?style=social)
-![GitHub
-stars](https://img.shields.io/github/stars/amarsabanerjee?affiliations=OWNER%2CCOLLABORATOR&style=social)
-:::
-
 ------------------------------------------------------------------------
 
 ## 🔥 Executive Summary
@@ -93,25 +79,5 @@ EDA • Business Analysis • KPI Engineering
 
 ------------------------------------------------------------------------
 
-## 📈 GitHub Analytics
 
-::: {align="center"}
-`<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amarsabanerjee&show_icons=true&theme=tokyonight" />`{=html}
-`<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=amarsabanerjee&theme=tokyonight" />`{=html}
-:::
 
-------------------------------------------------------------------------
-
-## 🎯 2026 Focus
-
--   Production-grade SQL optimization\
--   Data warehouse style modeling\
--   Advanced DAX & BI performance tuning\
--   Scalable analytics architecture
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-⭐ Building decision systems.\
-🚀 Engineering impact through data.
-:::
